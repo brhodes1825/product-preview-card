@@ -1,1 +1,32 @@
+:root {
+  /* Primary */
+--green-light: hsl(158, 36%, 37%);
+--green-dark: hsl(158, 42%, 18%);
+
+/* Neutral */
+--black: hsl(212, 21%, 14%);
+--grey: hsl(228, 12%, 48%);
+--cream: hsl(30, 38%, 92%);
+--white: hsl(0, 0%, 100%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--cream);
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
 
