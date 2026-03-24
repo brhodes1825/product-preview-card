@@ -40,10 +40,10 @@ main {
   justify-content: space-between;
 }
 
-/* .image {
+.image {
   width: 50%;
   height: auto;
-} */
+}
 
 img {
   width: 100%;
