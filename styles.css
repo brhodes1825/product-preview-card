@@ -66,18 +66,18 @@ img {
   border-radius: .5rem 0 0 .5rem;
 }
 
+p {
+  margin: 1rem 0;
+}
+
 .text {
   width: 50%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 1rem;
+  padding: 2rem;
   text-align: left;
   border-radius: 0 .5rem .5rem 0;
-}
-
-.text p {
-  margin: 1rem;
 }
 
 .header {
@@ -95,5 +95,6 @@ img {
 .info {
   font-family: "Montserrat";
   font-size: 1rem;
+  text-align: left;
 }
 
