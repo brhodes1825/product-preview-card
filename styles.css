@@ -114,5 +114,6 @@ p {
 .strikethrough-price {
   text-decoration-line: line-through;
   color: var(--grey);
-  font-size:.5rem;
+  font-size: .5rem;
 }
+
