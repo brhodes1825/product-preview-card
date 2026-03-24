@@ -26,7 +26,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  max-height: 50vh;
+  max-height: 100vh;
 }
 
 .card {
@@ -41,8 +41,10 @@ main {
 }
 
 .image {
-  width: 20rem;
+  width: auto;
   height: auto;
+  max-width: 20rem;
+  max-height: 25rem;
 }
 
 .text {
