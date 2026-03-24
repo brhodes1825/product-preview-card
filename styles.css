@@ -29,4 +29,13 @@ main {
   min-height: 100vh;
 }
 
+.card {
+  border-radius: 2rem;
+  width: 40.625rem;
+  background-color: var(--white);
+}
 
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
