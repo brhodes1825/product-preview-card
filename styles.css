@@ -38,7 +38,6 @@ body {
 
 .card {
   width: 40.625rem;
-  background-color: var(--white);
   border-radius: .5rem;
 }
 
@@ -65,6 +64,7 @@ p {
 
 .text {
   width: 50%;
+  background-color: var(--white);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -90,9 +90,10 @@ p {
 
 .info {
   font-family: "Montserrat";
-  font-size: .825rem;
+  font-size: 1rem;
   text-align: left;
   color: var(--grey);
+  line-height: .5rem;
 }
 
 .pricing {
@@ -113,10 +114,12 @@ p {
   color: var(--grey);
   font-size: .8rem;
   font-family: "Montserrat";
+  padding: .5rem
 }
 
 .button {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 1rem;
 }
