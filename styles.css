@@ -51,11 +51,11 @@ body {
   background-image: url("image-product-desktop.jpg");
 }
 
-/* .product-desktop {
+.product-desktop {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
-  border-radius: .5rem 0 0 .5rem; */
+  border-radius: .5rem 0 0 .5rem;
 }
 
 p {
@@ -170,10 +170,10 @@ p {
     border-radius: .5rem .5rem 0 0;
 } */
 
-.image {
+/* .image {
   width: 50%;
   height: auto;
-  background-image: url("image-product-mobile.jpg");
+  background-image: url("image-product-mobile.jpg"); */
 
   .text {
     border-radius: 0 0 .5rem .5rem;
