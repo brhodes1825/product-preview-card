@@ -94,7 +94,7 @@ p {
   font-size: 1rem;
   text-align: left;
   color: var(--grey);
-  line-height: 1rem;
+  line-height: 1.3rem;
 }
 
 .pricing {
