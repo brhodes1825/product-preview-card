@@ -85,11 +85,12 @@ p {
   font-size: 2rem;
   text-align: left;
   color: var(--black);
+  font-weight: 700;
 }
 
 .info {
   font-family: "Montserrat";
-  font-size: 1rem;
+  font-size: .75rem;
   text-align: left;
   color: var(--grey);
 }
@@ -103,12 +104,14 @@ p {
 .price {
   color: var(--green-dark);
   font-size: 2rem;
+  font-family: "Fraunces";
 }
 
 .strikethrough-price {
   text-decoration-line: line-through;
   color: var(--grey);
   font-size: 1rem;
+  font-family: "Montserrat";
 }
 
 .btn {
