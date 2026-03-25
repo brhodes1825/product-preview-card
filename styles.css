@@ -114,6 +114,12 @@ p {
   font-family: "Montserrat";
 }
 
+.button {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
 .btn {
   padding: 1rem 3rem;
   background-color: var(--green-light);
