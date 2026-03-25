@@ -160,7 +160,7 @@ p {
   .product {
     border-radius: .5rem .5rem 0 0;
     width: 100%;
-    height: 50%;
+/*  height: 50%; */
   }
 
   .text {
