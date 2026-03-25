@@ -117,7 +117,7 @@ p {
 
 .button {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   gap: 1rem;
 }
 
@@ -127,7 +127,7 @@ p {
   color: var(--white);
   border-radius: .75rem;
   border: none;
-  margin-top: 1rem;
+  margin: 1rem 0;
   cursor: pointer;
   font-family: "Montserrat";
   font-weight: 400;
