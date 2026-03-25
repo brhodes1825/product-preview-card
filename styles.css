@@ -166,4 +166,24 @@ p {
     border-radius: 0 0 .5rem .5rem;
     width: 50%;
   }
+
+  .header {
+    font-size: .5rem;
+  }
+
+  .title {
+    font-size: 1.75rem;
+  }
+
+  .info {
+    font-size: .6rem;
+  }
+
+  .price {
+    font-size: 1.5rem;
+  }
+
+  .strikethrough-price {
+    font-size: .5rem;
+  }
 }
