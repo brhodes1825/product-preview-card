@@ -98,9 +98,10 @@ p {
 
 .pricing {
   display: flex;
+  align-items: flex-start;
   justify-content: space-evenly;
   gap: .5rem;
-  margin-left: 0 0 0 -4rem;
+  /* margin-left: 0 0 0 -4rem; */
 }
 
 .price {
