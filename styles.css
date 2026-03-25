@@ -178,6 +178,7 @@ p {
 
   .info {
     font-size: .75rem;
+    line-height: normal;
   }
 
   .price {
