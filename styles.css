@@ -84,7 +84,7 @@ p {
   font-family: "Fraunces";
   font-size: 2.3rem;
   text-align: left;
-  color: var(--black);
+  color: var(--green-dark);
   font-weight: 700;
 }
 
@@ -103,7 +103,7 @@ p {
 }
 
 .price {
-  color: var(--green-dark);
+  color: var(--green-light);
   font-size: 2rem;
   font-weight: 700;
   font-family: "Fraunces";
@@ -117,22 +117,24 @@ p {
   padding: .5rem
 }
 
-.button {
+/* .button {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-}
+} */
 
 .btn {
   padding: 1rem 3rem;
+  width: 100%;
   background-color: var(--green-light);
   color: var(--white);
-  border-radius: .75rem;
+  border-radius: .625rem;
   border: none;
   cursor: pointer;
   font-family: "Montserrat";
   font-weight: 400;
+  font-size: 1rem;
 }
 
 .btn-img {
