@@ -118,7 +118,7 @@ p {
   padding: 1rem 3rem;
   background-color: var(--green-light);
   color: var(--white);
-  border-radius: 1rem;
+  border-radius: .75rem;
   border: none;
   margin-top: 1rem;
   cursor: pointer;
