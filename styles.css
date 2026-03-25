@@ -68,7 +68,6 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 2rem;
   text-align: left;
   border-radius: 0 .5rem .5rem 0;
 }
@@ -76,8 +75,8 @@ p {
 .header {
   text-align: left;
   font-family: "Montserrat";
-  font-size: 1rem;
-  font-weight: 300;
+  font-size: .8rem;
+  font-weight: 500;
   color: var(--grey);
 }
 
