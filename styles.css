@@ -118,12 +118,12 @@ p {
   padding: .5rem
 }
 
-/* .button {
+.button {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-} */
+}
 
 .btn {
   padding: 1rem 3rem;
