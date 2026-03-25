@@ -110,3 +110,13 @@ p {
   font-size: .5rem;
 }
 
+.btn {
+  padding: 1rem 3rem;
+  background-color: var(--green-light);
+  color: var(--white);
+  border-radius: 1rem;
+}
+
+.btn-img {
+  background-color: var(--green-light);
+}
