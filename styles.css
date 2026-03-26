@@ -145,6 +145,11 @@ p {
   padding: 0 .5rem 0 0;
 }
 
+button:hover {
+  background-color: var(--green-dark);
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 1100px) {
 /*  body {
     flex-direction: column;
