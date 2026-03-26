@@ -145,14 +145,19 @@ p {
   padding: 0 .5rem 0 0;
 }
 
-button:hover {
+.btn:hover {
+  background-color: var(--green-light);
+  padding: 0 .5rem 0 0;
+}
+
+button:hover, .btn-img:hover {
   background-color: var(--green-dark);
   cursor: pointer;
 }
 
-.btn-img:hover {
+/* .btn-img:hover {
   background-color: var(--green-dark);
-}
+} */
 
 @media only screen and (max-width: 1100px) {
 /*  body {
