@@ -48,7 +48,6 @@ body {
 .image {
   width: 50%;
   height: auto;
-  background-image: url("image-product-desktop.jpg");
 }
 
 /* .product-desktop {
