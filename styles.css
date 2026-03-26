@@ -171,6 +171,7 @@ button:hover {
     height: 22.125rem;
     width: 100%;
     object-fit: cover;
+    border-radius: .5rem .5rem 0 0;
   }
 
 /* .product-desktop {
