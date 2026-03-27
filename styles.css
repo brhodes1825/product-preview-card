@@ -101,7 +101,7 @@ p {
   align-items: flex-start;
   justify-content: space-evenly;
   gap: .5rem;
-  /* margin-left: 0 0 0 -4rem; */
+  margin-left: 0 0 0 -4rem;
 }
 
 .price {
@@ -142,12 +142,10 @@ p {
 
 .btn-img {
   background-color: var(--green-light);
-  padding: 0 .5rem 0 0;
 }
 
 .btn:hover {
-  background-color: var(--green-light);
-  padding: 0 .5rem 0 0;
+  background-color: var(--green-dark);
 }
 
 button:hover, .btn-img:hover {
